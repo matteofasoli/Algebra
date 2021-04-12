@@ -10,7 +10,7 @@ public class AreaTest {
 	public void testTriangolo() {
 		int base=2;
 		int altezza=3;
-		int valoreAtteso=2;
+		int valoreAtteso=3;
 		int valoreAttuale=Area.Triangolo(base,altezza);
 		assertEquals(valoreAtteso, valoreAttuale);
 	}
