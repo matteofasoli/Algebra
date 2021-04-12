@@ -1,0 +1,12 @@
+ Il volume nell'unit… C Š Acer
+ Numero di serie del volume: 2A23-9280
+
+ Directory di C:\Users\matteo\Desktop\academy-devops-2021\Algebragit\Algebra
+
+12/04/2021  17:17    <DIR>          .
+12/04/2021  17:17    <DIR>          ..
+12/04/2021  17:17                 0 dir.txt
+12/04/2021  16:32    <DIR>          geometria
+12/04/2021  16:08                 9 README.md
+               2 File              9 byte
+               3 Directory  20.909.158.400 byte disponibili
